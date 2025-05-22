@@ -25,7 +25,7 @@
 
 ### 😄 Fun Fact
 
-Driven by **faith and family** — I enjoy reading and spending quality time with loved ones! 🙌
+Driven by **faith and family** — I enjoy coding, reading, and spending quality time with loved ones! 🙌
 
 ---
 
