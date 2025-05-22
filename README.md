@@ -14,3 +14,32 @@ Email: gideonawortwe3@gmail.com
 
 Let’s Connect!
 I’m always eager to learn, grow, and connect with like-minded people. Check out my projects below or reach out to collaborate on something exciting! 💻
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhopx-graphics&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhopx-graphics&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhopx-graphics&theme=radical&row=1&column=7&no-frame=true" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhopx-graphics&layout=compact&theme=radical&hide_border=true" />
+</p>
