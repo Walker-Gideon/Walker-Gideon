@@ -34,7 +34,7 @@
 
 ### 🤝 Open To
 
-- Remote internship opportunities
+- Internship opportunities
 - National Service placement in tech
 - Collaborations on meaningful projects
 
