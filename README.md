@@ -1,31 +1,48 @@
 <h1 align="center">Hi 👋, I'm Gideon Awortwe</h1>
-<h3 align="center">Frontend Developer • CS Student @ KNUST • UI Enthusiast</h3>
+<h3 align="center">Software Developer • Final Year CS Student @ KNUST</h3>
 
 <p align="center">
-  Passionate about building clean, user-friendly web experiences using HTML, CSS, JavaScript, React, and Tailwind CSS. I love adding motion to my interfaces and using Git for smooth version control.
+  I build clean, functional web experiences — from responsive frontends to RESTful backends. Currently expanding into full stack development with a focus on shipping real products, not just tutorials.
 </p>
 
 ---
 
-### 🚀 What I’m Into
+### 🚀 What I'm Building With
 
-- 💻 Building intuitive and responsive web apps
-- 🎨 Exploring UI/UX design & motion design
-- 🤝 Collaborating on exciting creative tech ideas
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript
+- 🔧 **Backend:** Node.js, Express, REST APIs
+- 🗄️ **Database:** MongoDB, Mongoose, Firebase
+- 🛠️ **Tools:** Git, GitHub, Vercel
+
+---
+
+### 🌱 Currently Working On
+
+- Full stack Todo App — React + TypeScript + Express + MongoDB
+- WalkWise — a React + Firebase web app
+- Deepening backend fundamentals through building, not just watching
 
 ---
 
 ### 📫 Let's Connect
 
-- 🐦 [X (Twitter)](https://x.com/awortwe_gideon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gideon-awortwe-walker/)
-- 📧 gideonawortwe3@gmail.com
+- 🐦 [X (Twitter)](https://x.com/awortwe_gideon)
+- 📧 [gideonawortwe3@gmail.com](mailto:gideonawortwe3@gmail.com)
+
+---
+
+### 🤝 Open To
+
+- Remote internship opportunities
+- National Service placement in tech
+- Collaborations on meaningful projects
 
 ---
 
 ### 😄 Fun Fact
 
-Driven by **faith and family** — I enjoy coding, reading, and spending quality time with loved ones! 🙌
+Driven by **faith and discipline** — I believe in building things that last, one consistent day at a time. 🙌
 
 ---
 
